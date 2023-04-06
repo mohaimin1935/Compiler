@@ -1,1 +1,1 @@
-Academic course on compiler. A subset of C programming language is compiled ot x86 assembly language.
+Academic course on compiler. A subset of C programming language is compiled to x86 assembly language.
